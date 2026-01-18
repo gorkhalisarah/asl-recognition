@@ -1,7 +1,6 @@
 # Data & outputs
 data/
 models/runs/
-models/yolo_models/
 
 # Models
 *.pt
