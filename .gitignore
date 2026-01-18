@@ -1,0 +1,21 @@
+# Data & outputs
+data/
+models/runs/
+models/yolo_models/
+
+# Models
+*.pt
+*.pth
+*.onnx
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+asl_env/
+venv/
